@@ -58,5 +58,6 @@ Saya suka mempelajari teknologi baru dan selalu berusaha bikin sesuatu yang **cl
 <h3 align="center">✨ "Keep it simple, make it powerful." ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=450&lines=Web+Developer;UI%2FUX+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=480&lines=Web+Developer;Backend+Developer;Building+Cool+Projects+💻" alt="Typing SVG" />
 </p>
+

@@ -156,19 +156,6 @@ while (true) {
 
 ## 🌱 Saat Ini
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   💻  Coding          ██████████████  90%    │
-│   ⚙️  Backend         █████████████   85%    │
-│   🌐  Web Dev         ████████████    80%    │
-│   ☕  Kopi            ███████████████ 100%    │
-│   😴  Tidur           ███             20%    │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1700&pause=500&color=6C63FF&center=true&vCenter=true&width=650&lines=🌱+Belajar+setiap+hari;🧪+Mencoba+teknologi+baru;🔨+Membangun+sesuatu;🐛+Debugging...;✅+Bug+fixed!;🚀+Deploy!" />
 

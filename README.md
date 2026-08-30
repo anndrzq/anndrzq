@@ -1,63 +1,155 @@
-<h1 align="center">👋 Hai Semua, Saya <a href="https://github.com/anndrzq">Ananda Rizq</a></h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJwMDR0OG56bG83ajl5bmNlbjU0aGp4eTlnN3RrNnZtY2UwZWZpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gM5qFksULw54NMWyry/giphy.gif" width="250" alt="Coding Animation" />
-</p>
+# 👋 Hai, Saya Ananda Rizq
 
+### Full Stack Web Developer • Backend Engineer • Laravel Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Engineer;Laravel+Developer;Building+Useful+Things+With+Code+🚀" alt="Typing SVG" />
 
-### 🧑‍💻 Tentang Saya
-Halo! Saya **Ananda Rizq**, lulusan dari **SMK Plus Pelita Nusantara** jurusan **Rekayasa Perangkat Lunak** 🎓.  
-Sekarang saya sedang melanjutkan kuliah di **Universitas Gunadarma** jurusan **Informatika** 💻.  
-Saya senang banget bikin proyek **Website**, mulai dari desain tampilan sampai ke pengelolaan logika sistemnya.  
-Saya suka mempelajari teknologi baru dan selalu berusaha bikin sesuatu yang **clean, fungsional, dan bermanfaat** 🌱.
+<br/>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJwMDR0OG56bG83ajl5bmNlbjU0aGp4eTlnN3RrNnZtY2UwZWZpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gM5qFksULw54NMWyry/giphy.gif" width="260" alt="Coding Animation"/>
 
-### ⚙️ Teknologi yang Saya Gunakan
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="25" />
-  <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" />
-</p>
+<a href="https://anndrzq.my.id">
+  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/anndrzq">
+  <img src="https://img.shields.io/badge/GitHub-anndrzq-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 📚 Saat Ini Saya Sedang Belajar
+<a href="mailto:anndrzq32@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05340" height="25" />
-  <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25" />
-</p>
-
-<p align="center">🚀 Lagi mendalami framework dan database biar bisa bikin web yang makin cepat, aman, dan rapi.</p>
-
+</div>
 
 ---
 
-### 🌐 Temukan Saya di
+## 👨‍💻 Tentang Saya
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCHAvXW5D5k-eCAoEyonB0Cg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-Ananda%20Rizq-red?logo=youtube" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/anndrzq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@anndrzq-orange?logo=instagram" height="30" />
-  </a>
-  &nbsp;
-</p>
+Halo! Saya **Ananda Rizq**, lulusan **S1 Informatika Universitas Gunadarma tahun 2026**.
+
+Saya memiliki ketertarikan pada dunia **Software Development**, khususnya **Full Stack Web Development** dan **Backend Engineering**.
+
+Saya senang mengembangkan aplikasi web, membangun sistem backend, merancang database, mengintegrasikan API, serta mempelajari berbagai teknologi baru.
+
+Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat sistem yang **rapi, efisien, mudah dikembangkan, dan bermanfaat**. 🚀
 
 ---
 
-<h3 align="center">✨ "Keep it simple, make it powerful." ✨</h3>
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=480&lines=Web+Developer;Backend+Developer;Building+Cool+Projects+💻" alt="Typing SVG" />
-</p>
+<div align="center">
 
+### 💻 Bahasa & Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" />
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<br/><br/>
+
+### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode,figma" />
+
+</div>
+
+---
+
+## 🚀 Fokus Saya
+
+```text
+💻  Full Stack Web Development
+⚙️  Backend Engineering
+🔌  REST API Development
+🗄️  Database Management
+🐧  Linux & VPS Deployment
+🚀  CI/CD
+🌱  Terus Belajar Teknologi Baru
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anndrzq&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrzq&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anndrzq&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Aktivitas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anndrzq&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Temukan Saya
+
+<div align="center">
+
+<a href="https://anndrzq.my.id">
+  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/anndrzq/">
+  <img src="https://img.shields.io/badge/Instagram-@anndrzq-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCHAvXW5D5k-eCAoEyonB0Cg">
+  <img src="https://img.shields.io/badge/YouTube-Ananda_Rizq-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:anndrzq32@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-anndrzq32-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ `Code • Learn • Build • Repeat` ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=Terus+Belajar+Setiap+Hari+📚;Membangun+Sesuatu+Yang+Bermanfaat+💻;Mengubah+Ide+Menjadi+Kode+🚀" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anndrzq&label=Profile%20Views&color=00C2CB&style=flat-square"/>
+
+<br/><br/>
+
+**Terima kasih sudah mampir ke profil saya! 👋**
+
+</div>

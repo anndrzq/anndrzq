@@ -6,23 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C2CB&center=true&vCenter=true&width=650&lines=👋+Hai%2C+Saya+Ananda+Rizq;Full+Stack+Web+Developer;Backend+Engineer;Laravel+Developer;Building+Something+Useful+🚀" />
 
-<br/>
-
-<a href="https://anndrzq.my.id">
-  <img src="https://img.shields.io/badge/🌐_Website-anndrzq.my.id-00C2CB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/anndrzq">
-  <img src="https://img.shields.io/badge/GitHub-anndrzq-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:anndrzq32@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
 
 ---
 

@@ -2,26 +2,20 @@
 
 # 👋 Hai, Saya Ananda Rizq
 
-### Full Stack Web Developer • Backend Engineer • Laravel Developer
+### Full Stack Web Developer · Backend Engineer · Laravel Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Engineer;Laravel+Developer;Building+Useful+Things+With+Code+🚀" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJwMDR0OG56bG83ajl5bmNlbjU0aGp4eTlnN3RrNnZtY2UwZWZpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gM5qFksULw54NMWyry/giphy.gif" width="260" alt="Coding Animation"/>
-
-<br/><br/>
+<p>
+  Saya suka membangun aplikasi web yang sederhana, terstruktur, dan bermanfaat.
+</p>
 
 <a href="https://anndrzq.my.id">
-  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<a href="https://github.com/anndrzq">
-  <img src="https://img.shields.io/badge/GitHub-anndrzq-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="mailto:anndrzq32@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-anndrzq32-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/anndrzq">
+  <img src="https://img.shields.io/badge/GitHub-anndrzq-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -32,11 +26,20 @@
 
 Halo! Saya **Ananda Rizq**, lulusan **S1 Informatika Universitas Gunadarma tahun 2026**.
 
-Saya memiliki ketertarikan pada dunia **Software Development**, khususnya **Full Stack Web Development** dan **Backend Engineering**.
+Saya memiliki ketertarikan utama pada **pengembangan aplikasi web**, terutama di sisi **backend development**. Saya senang membangun aplikasi dari proses perancangan database, pengembangan REST API, hingga deployment ke server.
 
-Saya senang mengembangkan aplikasi web, membangun sistem backend, merancang database, mengintegrasikan API, serta mempelajari berbagai teknologi baru.
+Saat menulis kode, saya berusaha membuat sesuatu yang tidak hanya **berjalan**, tetapi juga **rapi, mudah dipahami, dan mudah dikembangkan kembali**.
 
-Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat sistem yang **rapi, efisien, mudah dikembangkan, dan bermanfaat**. 🚀
+```php
+<?php
+
+$ananda = [
+    "role" => "Full Stack Web Developer",
+    "focus" => "Backend Engineering",
+    "favorite" => "Laravel",
+    "mindset" => "Keep learning & keep building 🚀"
+];
+```
 
 ---
 
@@ -44,25 +47,30 @@ Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat
 
 <div align="center">
 
-### 💻 Bahasa & Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js" />
-
-<br/><br/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 
 <br/><br/>
 
-### 🗄️ Database
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nextjs" />
+
+<br/><br/>
+
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 <br/><br/>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode,figma" />
 
@@ -70,47 +78,51 @@ Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat
 
 ---
 
-## 🚀 Fokus Saya
-
-```text
-💻  Full Stack Web Development
-⚙️  Backend Engineering
-🔌  REST API Development
-🗄️  Database Management
-🐧  Linux & VPS Deployment
-🚀  CI/CD
-🌱  Terus Belajar Teknologi Baru
-```
-
----
-
-## 📊 GitHub Stats
+## 🎯 Yang Saya Sukai
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anndrzq&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+`Backend Development`
+  •  
+`Full Stack Development`
+  •  
+`REST API`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrzq&layout=compact&theme=transparent&hide_border=true" />
+<br/><br/>
+
+`Database`
+  •  
+`Linux Server`
+  •  
+`Deployment`
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anndrzq&theme=transparent&hide_border=true" />
-
-</div>
+```text
+💻  Mengembangkan aplikasi web
+⚙️  Membangun backend yang terstruktur
+🔌  Membuat dan mengintegrasikan REST API
+🗄️  Merancang dan mengelola database
+🐧  Bereksperimen dengan Linux & server
+🌱  Mempelajari teknologi baru
+```
 
 ---
 
-## 📈 Aktivitas GitHub
+## 🧩 Sedikit Tentang Saya
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anndrzq&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
+```javascript
+const aboutMe = {
+    lokasi: "Bogor, Jawa Barat 🇮🇩",
+    pendidikan: "S1 Informatika 🎓",
+    bidang: "Software Development 💻",
+    fokus: "Web & Backend Development ⚙️",
+    kopiSaatCoding: true,
+    selaluBelajar: true
+};
+```
 
 ---
 
@@ -119,19 +131,19 @@ Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat
 <div align="center">
 
 <a href="https://anndrzq.my.id">
-  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-anndrzq.my.id-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/anndrzq">
+  <img src="https://img.shields.io/badge/GitHub-@anndrzq-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/anndrzq/">
-  <img src="https://img.shields.io/badge/Instagram-@anndrzq-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@anndrzq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCHAvXW5D5k-eCAoEyonB0Cg">
-  <img src="https://img.shields.io/badge/YouTube-Ananda_Rizq-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:anndrzq32@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-anndrzq32-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-Ananda_Rizq-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </div>
@@ -140,16 +152,14 @@ Bagi saya, menulis kode bukan hanya membuat sesuatu bekerja, tetapi juga membuat
 
 <div align="center">
 
-### ✨ `Code • Learn • Build • Repeat` ✨
+### ✦ `Code. Learn. Build. Repeat.` ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=Terus+Belajar+Setiap+Hari+📚;Membangun+Sesuatu+Yang+Bermanfaat+💻;Mengubah+Ide+Menjadi+Kode+🚀" />
+<p>
+  Terus belajar, terus mencoba, dan terus membangun sesuatu yang bermanfaat.
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=anndrzq&label=Profile%20Views&color=00C2CB&style=flat-square"/>
-
-<br/><br/>
-
-**Terima kasih sudah mampir ke profil saya! 👋**
+**Terima kasih sudah mampir 👋**
 
 </div>
